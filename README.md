@@ -23,7 +23,7 @@ Puppet Control transforms hand movements into precise robotic manipulation witho
 
 - Trossen Robotics PincherX100 robotic arm
 - USB webcam (built-in or external)
-- Ubuntu 22.04 with ROS2 Humble
+- Ubuntu 24.04 with ROS2 Jazzy
 
 ## Software Dependencies
 
