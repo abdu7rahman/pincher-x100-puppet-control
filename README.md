@@ -267,4 +267,5 @@ Built using:
 
 ---
 
-*Making robotic teleoperation accessible through computer vision*
+*Making robotic teleoperation accessible through computer vision for no absolute reason W unnecessary code*
+
